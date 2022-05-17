@@ -1,0 +1,1 @@
+# kafka-playground-avro-connect
